@@ -1,0 +1,39 @@
+🎖️17hats only starts workflows from pick-from-list answers, so a typed budget field never routes anyone to your strategy call.🎖️
+
+Hi there,
+
+Rather than describe your rebuild, I built it from your blueprint: [your Vercel link]
+Measured: 871 messy sample rows became 855 clean contacts in Work, Live and Play; all 16,128 intake answer combinations start exactly one workflow.
+
+=== What the link shows ===
+- Prototype: all 7 blueprint pages from your PDF's own copy, desktop and phone; 21/21 page checks pass at three widths.
+- Contact sorter: drop in your Excel files, download Squarespace-ready Work, Live and Play lists. Opt-outs are held back; two-vertical contacts go to review, not guessed.
+- Intake funnel: the investment question is a pick-list, so $1,200+ gets the strategy call link, under $1,200 gets the $200 and $600 resources, and "not sure" gets a clarifying email.
+- Redirects: your /contact page still offers a free 15-minute call to anyone, skipping the questionnaire. It and 8 other old URLs now point to the new pages.
+- Calendly: a secret event hides the link but doesn't lock it, so it goes out only in the qualified email and gets swapped if it leaks.
+
+=== Similar Work ===
+My client work is under NDA, so each is paired with the closest public product.
+1. https://www.will-myers.com : Squarespace 7.1 plugins and code, similar to your Programs & Intensives dropdown
+Role: [your role, client type, outcome]
+- Clickable Dropdowns make a folder title open its first page
+- The script goes in Footer Code Injection; CSS hides the duplicate link
+- Touch devices keep tap-to-open, and the mobile menu keeps that first item
+- The code was updated in October 2025 after Squarespace changed header dropdowns
+2. https://paperbell.com : coaching platform joining intake, booking and payment, similar to your 17hats and Calendly funnel
+Role: [your role, client type, outcome]
+- Intake surveys attach to a package and send on purchase or before an appointment
+- Clients book and pay in one checkout; the appointment confirms once payment goes through
+- A password-free client portal handles booking, rescheduling and downloads
+- Calendars sync with Google, Outlook and iCloud, adding Zoom or Meet links
+
+=== $1,050 fixed price, about 42 hours at $25/hr ===
+- Milestone 1, $750 (30 hours): Phase 1. Seven pages built in your Squarespace, navigation consolidated with URL mappings, store out of header and search, lists imported as Work, Live and Play.
+- Milestone 2, $300 (12 hours): Phase 2. 17hats form on /intake, four workflows with emails, Gmail as the sending account, Calendly secret events, a test lead through every path, recorded walkthrough.
+Excludes new copy beyond the blueprint, photography and paid plugins.
+Tools (yours): 17hats about $60/month; Calendly Standard for separate 30- and 45-minute calls (Free allows one event type); Squarespace Core to embed the form.
+
+Question: which Squarespace plan are you on? Embedding the 17hats form needs Core or higher; on Basic, the Apply button links to the hosted form instead.
+
+Thanks,
+James

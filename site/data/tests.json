@@ -1,0 +1,187 @@
+{
+ "ran_at": "2026-11-09T18:46:55.573Z",
+ "node": "v22.23.4",
+ "passed": 20,
+ "total": 20,
+ "checks": 64577,
+ "sample": {
+  "files": 6,
+  "sheets": 7,
+  "rows": 871,
+  "unique": 855,
+  "merged": 12,
+  "rejected": 4,
+  "buckets": {
+   "work": 280,
+   "live": 256,
+   "play": 189,
+   "review": 101,
+   "do-not-import": 29
+  }
+ },
+ "combos": 16128,
+ "perf50k": 493,
+ "results": [
+  {
+   "group": "reader",
+   "name": "Reads shared strings, rich text, inline strings and multiple sheets",
+   "ok": true,
+   "checks": 5,
+   "detail": "6 files, 7 sheets",
+   "ms": 0.15
+  },
+  {
+   "group": "reader",
+   "name": "CSV: semicolons, BOM, quoted commas, CRLF",
+   "ok": true,
+   "checks": 3,
+   "detail": "",
+   "ms": 0.04
+  },
+  {
+   "group": "reader",
+   "name": "Refuses old .xls and non-spreadsheets with a clear message",
+   "ok": true,
+   "checks": 1,
+   "detail": "",
+   "ms": 0.08
+  },
+  {
+   "group": "segment",
+   "name": "Every unique contact lands in exactly one bucket",
+   "ok": true,
+   "checks": 3,
+   "detail": "{work:280,live:256,play:189,review:101,do-not-import:29}",
+   "ms": 0.16
+  },
+  {
+   "group": "segment",
+   "name": "Duplicates merge across files, sheets, case and spaces",
+   "ok": true,
+   "checks": 2,
+   "detail": "12 duplicate rows merged",
+   "ms": 0.06
+  },
+  {
+   "group": "segment",
+   "name": "An opt-out anywhere wins over an opt-in elsewhere",
+   "ok": true,
+   "checks": 6,
+   "detail": "29 contacts held back",
+   "ms": 0.15
+  },
+  {
+   "group": "segment",
+   "name": "Bad addresses are rejected with a reason (and a fix when it is a typo)",
+   "ok": true,
+   "checks": 3,
+   "detail": "invalid format, not an email, invalid dots, domain typo, did you mean sofia.reyes@gmail.com?",
+   "ms": 0.06
+  },
+  {
+   "group": "segment",
+   "name": "“Name <email>” cells, role addresses and header rows below a title",
+   "ok": true,
+   "checks": 4,
+   "detail": "",
+   "ms": 0.06
+  },
+  {
+   "group": "segment",
+   "name": "Explicit Vertical column wins; two verticals go to review, never guessed",
+   "ok": true,
+   "checks": 3,
+   "detail": "",
+   "ms": 0.34
+  },
+  {
+   "group": "segment",
+   "name": "Signals from titles, programs, classes and file names",
+   "ok": true,
+   "checks": 5,
+   "detail": "",
+   "ms": 0.07
+  },
+  {
+   "group": "segment",
+   "name": "Squarespace import files: email first, header like a Mailchimp export, no formula escaping in data",
+   "ok": true,
+   "checks": 4,
+   "detail": "280 Work rows",
+   "ms": 0.62
+  },
+  {
+   "group": "segment",
+   "name": "50,000-row workbook processed in the browser engine",
+   "ok": true,
+   "checks": 2,
+   "detail": "493 ms for 50,000 rows → 41,000 unique",
+   "perf": 493,
+   "ms": 544.7
+  },
+  {
+   "group": "intake",
+   "name": "Every possible answer combination starts exactly one workflow",
+   "ok": true,
+   "checks": 16128,
+   "detail": "16,128 combinations checked",
+   "ms": 48.17
+  },
+  {
+   "group": "intake",
+   "name": "Booking link only for $1,200+; everyone else gets resources, never a dead end",
+   "ok": true,
+   "checks": 32257,
+   "detail": "",
+   "ms": 9.47
+  },
+  {
+   "group": "intake",
+   "name": "Work / Live / Play tag always set for later email segments",
+   "ok": true,
+   "checks": 16128,
+   "detail": "",
+   "ms": 16.45
+  },
+  {
+   "group": "intake",
+   "name": "Missing required answers are refused",
+   "ok": true,
+   "checks": 1,
+   "detail": "",
+   "ms": 0.14
+  },
+  {
+   "group": "intake",
+   "name": "17hats rules: the plan passes; a typed budget field is caught",
+   "ok": true,
+   "checks": 5,
+   "detail": "typed budget → 0 workflows started",
+   "ms": 0.31
+  },
+  {
+   "group": "redirects",
+   "name": "Consolidation map is valid: no loops, chains, duplicates or missing targets",
+   "ok": true,
+   "checks": 2,
+   "detail": "9 rules",
+   "ms": 0.56
+  },
+  {
+   "group": "redirects",
+   "name": "Validator catches the silent failures",
+   "ok": true,
+   "checks": 6,
+   "detail": "",
+   "ms": 0.14
+  },
+  {
+   "group": "redirects",
+   "name": "Every old nav path found on the live site is either redirected or kept on purpose",
+   "ok": true,
+   "checks": 9,
+   "detail": "9 live nav paths accounted for",
+   "ms": 0.04
+  }
+ ]
+}

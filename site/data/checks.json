@@ -1,0 +1,1719 @@
+{
+ "when": "2026-11-09T18:45:44.326Z",
+ "browser": "153.0.8010.12",
+ "runs": [
+  {
+   "page": "index",
+   "width": 1440,
+   "title": "Home · Empowered by Asali (prototype)",
+   "titleChars": 37,
+   "titlePx": 356,
+   "desc": "Clear internal noise, handle high-pressure moments with composure, and execute with quiet confidence using The 3R System™.",
+   "descChars": 122,
+   "h1": 1,
+   "h1Text": [
+    "High-Stakes Moments Require More Than Motivation."
+   ],
+   "headings": 10,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "High-Stakes Moments Require More Than Motivation."
+    },
+    {
+     "tag": "H2",
+     "text": "“Most high-achievers don't have a talent problem; they have "
+    },
+    {
+     "tag": "H3",
+     "text": "Regulate"
+    },
+    {
+     "tag": "H3",
+     "text": "Relate"
+    },
+    {
+     "tag": "H3",
+     "text": "Refocus"
+    },
+    {
+     "tag": "H2",
+     "text": "Two ways to work with Asali"
+    },
+    {
+     "tag": "H3",
+     "text": "Leadership & Advisory"
+    },
+    {
+     "tag": "H3",
+     "text": "Movement & Stage"
+    },
+    {
+     "tag": "H2",
+     "text": "Documented outcomes"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 38,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Hero portrait · photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 14,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Results",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3649,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [
+    {
+     "border": "rgb(203, 213, 225)",
+     "width": "1px",
+     "shadow": "none"
+    },
+    {
+     "border": "rgb(203, 213, 225)",
+     "width": "1px",
+     "shadow": "none"
+    }
+   ],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "index",
+   "width": 1024,
+   "title": "Home · Empowered by Asali (prototype)",
+   "titleChars": 37,
+   "titlePx": 356,
+   "desc": "Clear internal noise, handle high-pressure moments with composure, and execute with quiet confidence using The 3R System™.",
+   "descChars": 122,
+   "h1": 1,
+   "h1Text": [
+    "High-Stakes Moments Require More Than Motivation."
+   ],
+   "headings": 10,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "High-Stakes Moments Require More Than Motivation."
+    },
+    {
+     "tag": "H2",
+     "text": "“Most high-achievers don't have a talent problem; they have "
+    },
+    {
+     "tag": "H3",
+     "text": "Regulate"
+    },
+    {
+     "tag": "H3",
+     "text": "Relate"
+    },
+    {
+     "tag": "H3",
+     "text": "Refocus"
+    },
+    {
+     "tag": "H2",
+     "text": "Two ways to work with Asali"
+    },
+    {
+     "tag": "H3",
+     "text": "Leadership & Advisory"
+    },
+    {
+     "tag": "H3",
+     "text": "Movement & Stage"
+    },
+    {
+     "tag": "H2",
+     "text": "Documented outcomes"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 38,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Hero portrait · photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 9,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Results",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3336,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [
+    {
+     "border": "rgb(203, 213, 225)",
+     "width": "1px",
+     "shadow": "none"
+    },
+    {
+     "border": "rgb(203, 213, 225)",
+     "width": "1px",
+     "shadow": "none"
+    }
+   ],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "index",
+   "width": 390,
+   "title": "Home · Empowered by Asali (prototype)",
+   "titleChars": 37,
+   "titlePx": 356,
+   "desc": "Clear internal noise, handle high-pressure moments with composure, and execute with quiet confidence using The 3R System™.",
+   "descChars": 122,
+   "h1": 1,
+   "h1Text": [
+    "High-Stakes Moments Require More Than Motivation."
+   ],
+   "headings": 10,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "High-Stakes Moments Require More Than Motivation."
+    },
+    {
+     "tag": "H2",
+     "text": "“Most high-achievers don't have a talent problem; they have "
+    },
+    {
+     "tag": "H3",
+     "text": "Regulate"
+    },
+    {
+     "tag": "H3",
+     "text": "Relate"
+    },
+    {
+     "tag": "H3",
+     "text": "Refocus"
+    },
+    {
+     "tag": "H2",
+     "text": "Two ways to work with Asali"
+    },
+    {
+     "tag": "H3",
+     "text": "Leadership & Advisory"
+    },
+    {
+     "tag": "H3",
+     "text": "Movement & Stage"
+    },
+    {
+     "tag": "H2",
+     "text": "Documented outcomes"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 38,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Hero portrait · photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 9,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Results",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 5184,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [
+    {
+     "border": "rgb(203, 213, 225)",
+     "width": "1px",
+     "shadow": "none"
+    },
+    {
+     "border": "rgb(203, 213, 225)",
+     "width": "1px",
+     "shadow": "none"
+    }
+   ],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "consulting-advisory",
+   "width": 1440,
+   "title": "Consulting & Advisory · Empowered by Asali (prototype)",
+   "titleChars": 54,
+   "titlePx": 498,
+   "desc": "Leadership, career and organizational advisory for executives, VPs, directors, HR leaders and growing teams.",
+   "descChars": 108,
+   "h1": 1,
+   "h1Text": [
+    "Leadership, Career & Organizational Advisory"
+   ],
+   "headings": 7,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Leadership, Career & Organizational Advisory"
+    },
+    {
+     "tag": "H2",
+     "text": "Grip-Tightener or Fire-Extinguisher?"
+    },
+    {
+     "tag": "H2",
+     "text": "Two ways in"
+    },
+    {
+     "tag": "H3",
+     "text": "Individual Advisory"
+    },
+    {
+     "tag": "H3",
+     "text": "Organizational Advisory"
+    },
+    {
+     "tag": "H2",
+     "text": "Where the 3R System™ shows up"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 34,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 10,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "The 3R strategic application matrix",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3902,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "consulting-advisory",
+   "width": 1024,
+   "title": "Consulting & Advisory · Empowered by Asali (prototype)",
+   "titleChars": 54,
+   "titlePx": 498,
+   "desc": "Leadership, career and organizational advisory for executives, VPs, directors, HR leaders and growing teams.",
+   "descChars": 108,
+   "h1": 1,
+   "h1Text": [
+    "Leadership, Career & Organizational Advisory"
+   ],
+   "headings": 7,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Leadership, Career & Organizational Advisory"
+    },
+    {
+     "tag": "H2",
+     "text": "Grip-Tightener or Fire-Extinguisher?"
+    },
+    {
+     "tag": "H2",
+     "text": "Two ways in"
+    },
+    {
+     "tag": "H3",
+     "text": "Individual Advisory"
+    },
+    {
+     "tag": "H3",
+     "text": "Organizational Advisory"
+    },
+    {
+     "tag": "H2",
+     "text": "Where the 3R System™ shows up"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 34,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 5,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "The 3R strategic application matrix",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3545,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "consulting-advisory",
+   "width": 390,
+   "title": "Consulting & Advisory · Empowered by Asali (prototype)",
+   "titleChars": 54,
+   "titlePx": 498,
+   "desc": "Leadership, career and organizational advisory for executives, VPs, directors, HR leaders and growing teams.",
+   "descChars": 108,
+   "h1": 1,
+   "h1Text": [
+    "Leadership, Career & Organizational Advisory"
+   ],
+   "headings": 7,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Leadership, Career & Organizational Advisory"
+    },
+    {
+     "tag": "H2",
+     "text": "Grip-Tightener or Fire-Extinguisher?"
+    },
+    {
+     "tag": "H2",
+     "text": "Two ways in"
+    },
+    {
+     "tag": "H3",
+     "text": "Individual Advisory"
+    },
+    {
+     "tag": "H3",
+     "text": "Organizational Advisory"
+    },
+    {
+     "tag": "H2",
+     "text": "Where the 3R System™ shows up"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 34,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 5,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "The 3R strategic application matrix",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 6030,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "programs-intensives",
+   "width": 1440,
+   "title": "Programs & Intensives · Empowered by Asali (prototype)",
+   "titleChars": 54,
+   "titlePx": 504,
+   "desc": "The Reinvention Accelerator cohort and the Fiercely Feminine Mind-Body Reset Intensive.",
+   "descChars": 87,
+   "h1": 1,
+   "h1Text": [
+    "High-touch cohorts and intensives"
+   ],
+   "headings": 4,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "High-touch cohorts and intensives"
+    },
+    {
+     "tag": "H2",
+     "text": "The Reinvention Accelerator"
+    },
+    {
+     "tag": "H2",
+     "text": "Fiercely Feminine — Mind-Body Reset Intensive"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 33,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 9,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Module 1",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2762,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "programs-intensives",
+   "width": 1024,
+   "title": "Programs & Intensives · Empowered by Asali (prototype)",
+   "titleChars": 54,
+   "titlePx": 504,
+   "desc": "The Reinvention Accelerator cohort and the Fiercely Feminine Mind-Body Reset Intensive.",
+   "descChars": 87,
+   "h1": 1,
+   "h1Text": [
+    "High-touch cohorts and intensives"
+   ],
+   "headings": 4,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "High-touch cohorts and intensives"
+    },
+    {
+     "tag": "H2",
+     "text": "The Reinvention Accelerator"
+    },
+    {
+     "tag": "H2",
+     "text": "Fiercely Feminine — Mind-Body Reset Intensive"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 33,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 4,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Module 1",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2504,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "programs-intensives",
+   "width": 390,
+   "title": "Programs & Intensives · Empowered by Asali (prototype)",
+   "titleChars": 54,
+   "titlePx": 504,
+   "desc": "The Reinvention Accelerator cohort and the Fiercely Feminine Mind-Body Reset Intensive.",
+   "descChars": 87,
+   "h1": 1,
+   "h1Text": [
+    "High-touch cohorts and intensives"
+   ],
+   "headings": 4,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "High-touch cohorts and intensives"
+    },
+    {
+     "tag": "H2",
+     "text": "The Reinvention Accelerator"
+    },
+    {
+     "tag": "H2",
+     "text": "Fiercely Feminine — Mind-Body Reset Intensive"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 33,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 4,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Module 1",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3749,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "movement-stage",
+   "width": 1440,
+   "title": "Movement & Stage · Empowered by Asali (prototype)",
+   "titleChars": 49,
+   "titlePx": 472,
+   "desc": "MENAHT dance technique, embodied stage presence and the commercial business of art.",
+   "descChars": 83,
+   "h1": 1,
+   "h1Text": [
+    "Embodied Presence & Stagecraft Strategy"
+   ],
+   "headings": 6,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Embodied Presence & Stagecraft Strategy"
+    },
+    {
+     "tag": "H2",
+     "text": "Three ways to train"
+    },
+    {
+     "tag": "H3",
+     "text": "MENAHT Dance Technique & Lineage"
+    },
+    {
+     "tag": "H3",
+     "text": "Embodied Stage Presence"
+    },
+    {
+     "tag": "H3",
+     "text": "The Commercial Business of Art"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 33,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 9,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Core pillars of advisory",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2374,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "movement-stage",
+   "width": 1024,
+   "title": "Movement & Stage · Empowered by Asali (prototype)",
+   "titleChars": 49,
+   "titlePx": 472,
+   "desc": "MENAHT dance technique, embodied stage presence and the commercial business of art.",
+   "descChars": 83,
+   "h1": 1,
+   "h1Text": [
+    "Embodied Presence & Stagecraft Strategy"
+   ],
+   "headings": 6,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Embodied Presence & Stagecraft Strategy"
+    },
+    {
+     "tag": "H2",
+     "text": "Three ways to train"
+    },
+    {
+     "tag": "H3",
+     "text": "MENAHT Dance Technique & Lineage"
+    },
+    {
+     "tag": "H3",
+     "text": "Embodied Stage Presence"
+    },
+    {
+     "tag": "H3",
+     "text": "The Commercial Business of Art"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 33,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 4,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Core pillars of advisory",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2192,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "movement-stage",
+   "width": 390,
+   "title": "Movement & Stage · Empowered by Asali (prototype)",
+   "titleChars": 49,
+   "titlePx": 472,
+   "desc": "MENAHT dance technique, embodied stage presence and the commercial business of art.",
+   "descChars": 83,
+   "h1": 1,
+   "h1Text": [
+    "Embodied Presence & Stagecraft Strategy"
+   ],
+   "headings": 6,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Embodied Presence & Stagecraft Strategy"
+    },
+    {
+     "tag": "H2",
+     "text": "Three ways to train"
+    },
+    {
+     "tag": "H3",
+     "text": "MENAHT Dance Technique & Lineage"
+    },
+    {
+     "tag": "H3",
+     "text": "Embodied Stage Presence"
+    },
+    {
+     "tag": "H3",
+     "text": "The Commercial Business of Art"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 33,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 4,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Core pillars of advisory",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3162,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "about",
+   "width": 1440,
+   "title": "About · Empowered by Asali (prototype)",
+   "titleChars": 38,
+   "titlePx": 355,
+   "desc": "Asali N. Locke-Ellison: corporate talent strategy, Positive Intelligence coaching and MENAHT dance lineage.",
+   "descChars": 107,
+   "h1": 1,
+   "h1Text": [
+    "Build confidence without the act."
+   ],
+   "headings": 6,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Build confidence without the act."
+    },
+    {
+     "tag": "H2",
+     "text": "Corporate-to-stage synthesis"
+    },
+    {
+     "tag": "H2",
+     "text": "Who this is for"
+    },
+    {
+     "tag": "H3",
+     "text": "We are a fit if"
+    },
+    {
+     "tag": "H3",
+     "text": "We are not a fit if"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 31,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 7,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Credentials & lineage",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2871,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [
+    "rgb(63, 125, 90)",
+    "rgb(192, 138, 46)"
+   ],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "about",
+   "width": 1024,
+   "title": "About · Empowered by Asali (prototype)",
+   "titleChars": 38,
+   "titlePx": 355,
+   "desc": "Asali N. Locke-Ellison: corporate talent strategy, Positive Intelligence coaching and MENAHT dance lineage.",
+   "descChars": 107,
+   "h1": 1,
+   "h1Text": [
+    "Build confidence without the act."
+   ],
+   "headings": 6,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Build confidence without the act."
+    },
+    {
+     "tag": "H2",
+     "text": "Corporate-to-stage synthesis"
+    },
+    {
+     "tag": "H2",
+     "text": "Who this is for"
+    },
+    {
+     "tag": "H3",
+     "text": "We are a fit if"
+    },
+    {
+     "tag": "H3",
+     "text": "We are not a fit if"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 31,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 2,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Credentials & lineage",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2672,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [
+    "rgb(63, 125, 90)",
+    "rgb(192, 138, 46)"
+   ],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "about",
+   "width": 390,
+   "title": "About · Empowered by Asali (prototype)",
+   "titleChars": 38,
+   "titlePx": 355,
+   "desc": "Asali N. Locke-Ellison: corporate talent strategy, Positive Intelligence coaching and MENAHT dance lineage.",
+   "descChars": 107,
+   "h1": 1,
+   "h1Text": [
+    "Build confidence without the act."
+   ],
+   "headings": 6,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Build confidence without the act."
+    },
+    {
+     "tag": "H2",
+     "text": "Corporate-to-stage synthesis"
+    },
+    {
+     "tag": "H2",
+     "text": "Who this is for"
+    },
+    {
+     "tag": "H3",
+     "text": "We are a fit if"
+    },
+    {
+     "tag": "H3",
+     "text": "We are not a fit if"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 31,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 11.5,
+   "minFontText": "Photo direction",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 2,
+   "contrastWorst": {
+    "ratio": 4.64,
+    "text": "Credentials & lineage",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3885,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [
+    "rgb(63, 125, 90)",
+    "rgb(192, 138, 46)"
+   ],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "results",
+   "width": 1440,
+   "title": "Results · Empowered by Asali (prototype)",
+   "titleChars": 40,
+   "titlePx": 369,
+   "desc": "Documented outcomes: a CFO, a senior engineer and a tech department lead.",
+   "descChars": 73,
+   "h1": 1,
+   "h1Text": [
+    "Documented corporate and individual outcomes"
+   ],
+   "headings": 2,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Documented corporate and individual outcomes"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 34,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 13,
+   "minFontText": "Wellness products",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 10,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Results",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 1794,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "results",
+   "width": 1024,
+   "title": "Results · Empowered by Asali (prototype)",
+   "titleChars": 40,
+   "titlePx": 369,
+   "desc": "Documented outcomes: a CFO, a senior engineer and a tech department lead.",
+   "descChars": 73,
+   "h1": 1,
+   "h1Text": [
+    "Documented corporate and individual outcomes"
+   ],
+   "headings": 2,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Documented corporate and individual outcomes"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 34,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 13,
+   "minFontText": "Wellness products",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 5,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Results",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 1674,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "results",
+   "width": 390,
+   "title": "Results · Empowered by Asali (prototype)",
+   "titleChars": 40,
+   "titlePx": 369,
+   "desc": "Documented outcomes: a CFO, a senior engineer and a tech department lead.",
+   "descChars": 73,
+   "h1": 1,
+   "h1Text": [
+    "Documented corporate and individual outcomes"
+   ],
+   "headings": 2,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Documented corporate and individual outcomes"
+    },
+    {
+     "tag": "H2",
+     "text": "Ready for the high-stakes moment?"
+    }
+   ],
+   "links": 34,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 13,
+   "minFontText": "Wellness products",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 5,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Results",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2503,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 0,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "intake",
+   "width": 1440,
+   "title": "Apply for Strategy Call · Empowered by Asali (prototype)",
+   "titleChars": 56,
+   "titlePx": 501,
+   "desc": "Apply for a strategy call: eight questions, one clear next step.",
+   "descChars": 64,
+   "h1": 1,
+   "h1Text": [
+    "Eight questions. One clear next step."
+   ],
+   "headings": 1,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Eight questions. One clear next step."
+    }
+   ],
+   "links": 20,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 13,
+   "minFontText": "Prototype form · nothing is sent anywher",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 12,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Apply for a strategy call",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2931,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 29,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "intake",
+   "width": 1024,
+   "title": "Apply for Strategy Call · Empowered by Asali (prototype)",
+   "titleChars": 56,
+   "titlePx": 501,
+   "desc": "Apply for a strategy call: eight questions, one clear next step.",
+   "descChars": 64,
+   "h1": 1,
+   "h1Text": [
+    "Eight questions. One clear next step."
+   ],
+   "headings": 1,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Eight questions. One clear next step."
+    }
+   ],
+   "links": 20,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 13,
+   "minFontText": "Prototype form · nothing is sent anywher",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 7,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Apply for a strategy call",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 2931,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 29,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  },
+  {
+   "page": "intake",
+   "width": 390,
+   "title": "Apply for Strategy Call · Empowered by Asali (prototype)",
+   "titleChars": 56,
+   "titlePx": 501,
+   "desc": "Apply for a strategy call: eight questions, one clear next step.",
+   "descChars": 64,
+   "h1": 1,
+   "h1Text": [
+    "Eight questions. One clear next step."
+   ],
+   "headings": 1,
+   "skipped": 0,
+   "outline": [
+    {
+     "tag": "H1",
+     "text": "Eight questions. One clear next step."
+    }
+   ],
+   "links": 20,
+   "faqLinks": 0,
+   "faqLinksUnique": 0,
+   "genericLinkText": 0,
+   "minFont": 13,
+   "minFontText": "Prototype form · nothing is sent anywher",
+   "minTarget": {
+    "size": 44,
+    "text": "Empowered by Asali"
+   },
+   "under44": 0,
+   "under24": 0,
+   "targets": 7,
+   "contrastWorst": {
+    "ratio": 5.07,
+    "text": "Apply for a strategy call",
+    "need": 4.5
+   },
+   "contrastFails": 0,
+   "contrastFailList": [],
+   "overflow": false,
+   "height": 3659,
+   "canvases": [],
+   "images": 0,
+   "imgNoAlt": 0,
+   "imgNoSize": 0,
+   "fields": 29,
+   "unlabeled": 0,
+   "navLinks": [
+    "About",
+    "Consulting & Advisory",
+    "Movement & Stage",
+    "Programs & IntensivesAll programs & intensivesOverview of bothThe Reinvention AcceleratorCohort · apply via intakeFiercely Feminine Mind-Body ResetLinks to the existing sales page",
+    "Results"
+   ],
+   "headerBtn": [
+    "Apply for Strategy Call"
+   ],
+   "pathCards": [],
+   "fitPanels": [],
+   "healthInHeader": false,
+   "cls": 0
+  }
+ ]
+}

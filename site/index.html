@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Rebuild &amp; Intake Lab</title>
+<meta name="description" content="Prototype of the consolidated Squarespace site, a Work/Live/Play contact list sorter, and a tested 17hats + Calendly + Gmail intake funnel.">
+<link rel="preload" href="fonts/manrope-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="shell">
+<aside class="rail">
+  <div class="brand"><span class="mark" aria-hidden="true"></span><div><b>Rebuild &amp; Intake Lab</b><small>Squarespace · 17hats · Calendly · Gmail</small></div></div>
+  <nav class="tabs" role="tablist" aria-label="Lab sections">
+    <a role="tab" href="#overview" aria-selected="true"><i>01</i>Overview</a>
+    <a role="tab" href="#prototype"><i>02</i>Site prototype</a>
+    <a role="tab" href="#navigation"><i>03</i>Navigation &amp; redirects</a>
+    <a role="tab" href="#contacts"><i>04</i>Contact list sorter</a>
+    <a role="tab" href="#intake"><i>05</i>Intake funnel</a>
+    <a role="tab" href="#build"><i>06</i>Squarespace build sheet</a>
+    <a role="tab" href="#tests"><i>07</i>Tests</a>
+    <a role="tab" href="#plan"><i>08</i>Plan &amp; handover</a>
+  </nav>
+  <p class="rail-foot">A proposal asset for the Empowered by Asali blueprint. Prototype pages use the blueprint's own copy. Photos are placeholders that state the blueprint's photo direction; all contacts in the sample files are fictional.</p>
+</aside>
+
+<main>
+<!-- 01 OVERVIEW -->
+<section id="overview" class="panel" role="tabpanel">
+  <header class="ph"><p class="kicker">Phase 1 + Phase 2, built before the call</p>
+  <h1>Your blueprint, already running: seven pages, the list sorter, and a funnel that can't misroute.</h1>
+  <p class="lede">I built the consolidated site as a working prototype from your blueprint copy, wrote the tool that sorts your Excel lists into Work, Live and Play, and modelled the 17hats intake so every possible answer was tested before anything touches your account.</p></header>
+  <dl class="tally" id="tally">
+    <div><dt>Pages to blueprint</dt><dd>7</dd><span>5 nav links + 1 button, checked at 3 widths</span></div>
+    <div><dt>Layout &amp; access checks</dt><dd id="t-checks">21/21</dd><span>no overflow, contrast or tap-target fails</span></div>
+    <div><dt>Answer combinations</dt><dd id="t-combos">16,128</dd><span>each starts exactly one workflow</span></div>
+    <div><dt>Logic tests</dt><dd id="t-tests">20/20</dd><span>reader, sorter, intake, redirects</span></div>
+  </dl>
+  <div class="finding">
+    <p class="tag">The finding that shapes Phase 2</p>
+    <h2>17hats only starts a workflow from a pick-from-a-list answer.</h2>
+    <p>17hats can start a different workflow for each answer, but only on a “Choose from a List” question, and only one such question per Lead Capture Form. If the budget question is typed (“$2,500”), every lead gets the same treatment and your $1,200 split never happens. So the investment question is a fixed list, and it is the only question that routes. <a href="#intake">See the funnel →</a></p>
+  </div>
+  <div class="grid3">
+    <div class="card"><p class="tag">Also found on your live site</p><h3>/contact offers anyone a free 15-minute call</h3><p>Today's Contact page invites everyone to “Schedule a FREE 15-min discovery call”. Left in place, it bypasses the new qualifying questionnaire. The redirect map sends /contact to /intake, and that Calendly event should be retired or made secret.</p></div>
+    <div class="card"><p class="tag">Calendly detail</p><h3>A secret event hides the link; it doesn't gate it</h3><p>Calendly's “secret” setting removes an event from your public page, but anyone holding the link can still book. Qualified leads get the secret link by email from 17hats. If links start circulating, I rotate the event URL in one click.</p></div>
+    <div class="card"><p class="tag">Squarespace detail</p><h3>Moving the store to Not Linked doesn't remove it from Google</h3><p>Not Linked pages stay public and indexed. The store collection also needs “Hide page from search results”. Product pages can't be hidden one by one, only as the whole collection.</p></div>
+  </div>
+</section>
+
+<!-- 02 PROTOTYPE -->
+<section id="prototype" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">Phase 1 · blueprint sections 1–7</p><h2>The consolidated site, as a working prototype</h2>
+  <p class="lede">Built only from the blueprint's copy and rules: five links plus the Apply button, the Programs dropdown, hairline #cbd5e1 path cards with no shadows, the green/amber “Are We a Fit?” panels, and the store kept out of the menu. Click through it like a visitor.</p></header>
+  <div class="viewer">
+    <div class="vbar">
+      <div class="seg" id="pages" role="group" aria-label="Page"></div>
+      <div class="seg" id="devices" role="group" aria-label="Device"><button class="on" data-w="1280">Desktop</button><button data-w="390">Phone</button></div>
+    </div>
+    <div class="stage" id="stage"><iframe id="frame" title="Prototype page" src="proto/index.html" loading="lazy"></iframe></div>
+    <p class="fine">Prototype, not your live site. Class names follow Squarespace 7.1 so the CSS in the build sheet maps straight onto the real blocks. <a href="proto/index.html" target="_blank" rel="noopener">Open full screen ↗</a></p>
+  </div>
+  <div class="checks" id="checks"></div>
+</section>
+
+<!-- 03 NAVIGATION -->
+<section id="navigation" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">Blueprint section 1 · global navigation</p><h2>From ten menu links to five and one button, with no broken URLs</h2>
+  <p class="lede">I read your live navigation to build the redirect map. Every old path either 301-redirects to its new home or stays on purpose, so links already in emails, LinkedIn posts and Google keep working.</p></header>
+  <div class="navcompare">
+    <div class="card"><p class="tag">Today (from the live site)</p><ol class="navlist old" id="nav-old"></ol></div>
+    <div class="arrow" aria-hidden="true">→</div>
+    <div class="card"><p class="tag">Blueprint</p><ol class="navlist new"><li>About</li><li>Consulting &amp; Advisory</li><li>Movement &amp; Stage</li><li>Programs &amp; Intensives <small>dropdown: overview · Reinvention Accelerator · Fiercely Feminine</small></li><li>Results</li><li class="btnli">Apply for Strategy Call <small>→ /intake (17hats form)</small></li></ol></div>
+  </div>
+  <div class="split">
+    <div class="card">
+      <h3>URL Mappings (paste into Settings → Developer Tools → URL Mappings)</h3>
+      <textarea id="map" spellcheck="false" aria-label="URL mappings"></textarea>
+      <div class="row"><button class="btn" id="copy-map">Copy</button><span id="map-status" class="fine" role="status"></span></div>
+      <ul id="map-issues" class="issues"></ul>
+      <p class="fine">Edit the box: the checker flags loops, chains, duplicates, 302s, missing slashes and targets that aren't pages on the new site, as you type.</p>
+    </div>
+    <div class="card"><h3>Kept on purpose</h3><ul class="keep" id="keep"></ul>
+      <h3 style="margin-top:20px">Health products</h3><p>Out of the header entirely. The store stays reachable from a discreet footer link and 1-on-1 recommendations. Its collection gets “Hide page from search results”, so the products stop showing up next to a high-ticket advisory brand in search results.</p></div>
+  </div>
+</section>
+
+<!-- 04 CONTACTS -->
+<section id="contacts" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">Phase 1 · Excel lists → Work, Live, Play</p><h2>Contact list sorter</h2>
+  <p class="lede">Drop your Excel or CSV exports here. Everything runs in this browser tab; nothing is uploaded anywhere. You get one Squarespace-ready file per vertical, a review file for anything ambiguous, and a hold-back file for anyone who opted out.</p></header>
+  <div class="drop" id="drop" tabindex="0" role="button" aria-label="Choose spreadsheet files">
+    <input type="file" id="file" multiple accept=".xlsx,.csv,.txt" hidden>
+    <p><b>Drop .xlsx or .csv files</b> or click to choose. Multiple files and sheets are fine.</p>
+    <button class="btn ghost" id="samples" type="button">Try it with 6 messy sample files</button>
+  </div>
+  <div id="seg-out" class="segout" hidden>
+    <div class="bars" id="bars"></div>
+    <div class="dl" id="downloads"></div>
+    <div class="split">
+      <div class="card"><h3>How each contact was placed</h3><div class="tablewrap"><table class="mini" id="preview"></table></div></div>
+      <div class="card"><h3>What the sorter did</h3><ul class="ticks" id="did"></ul></div>
+    </div>
+  </div>
+  <div class="split rules">
+    <div class="card"><h3>Rules, in plain words</h3><ul class="ticks">
+      <li><b>A “Vertical” column wins.</b> If a file already says Work, Live or Play, that's used.</li>
+      <li><b>Otherwise, signals score it:</b> job titles and companies (Work), programs like PQ Bootcamp or burnout webinars (Live), classes like belly dance, MENAHT or Fiercely Feminine (Play), plus the file and sheet names.</li>
+      <li><b>Close calls aren't guessed.</b> They go to Review with the reason, for you to decide in one pass.</li>
+      <li><b>An opt-out anywhere wins.</b> If any file marks someone unsubscribed, they're held back. Squarespace's import also expects consent from everyone you add.</li>
+      <li><b>Bad addresses are rejected with a reason,</b> and typo fixes like gmial.com → gmail.com are suggested, never applied silently.</li></ul></div>
+    <div class="card"><h3>Why it matters in Squarespace</h3><ul class="ticks">
+      <li>Mailing-list imports take a .csv with the <b>email in the first column</b>, then first and last name.</li>
+      <li>Someone who unsubscribed in Squarespace <b>isn't resubscribed</b> by re-importing them, so the clean-up has to happen before the first import.</li>
+      <li>Lists with likely bounces can be <b>refused at upload</b>. Rejecting invalid addresses first avoids that.</li>
+      <li>Email Campaigns plans cap monthly sends, so segment sizes decide which plan you need.</li></ul></div>
+  </div>
+</section>
+
+<!-- 05 INTAKE -->
+<section id="intake" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">Phase 2 · 17hats + Calendly + Gmail</p><h2>One form, four outcomes, zero dead ends</h2>
+  <p class="lede">The intake page on the prototype runs this exact model. Click an answer to the investment question and watch which workflow 17hats starts.</p></header>
+  <div class="flow">
+    <div class="node">Squarespace <b>/intake</b><small>17hats form in a Code Block</small></div><span class="ar">→</span>
+    <div class="node">17hats Lead Capture Form<small>8 questions; question 6 routes</small></div><span class="ar">→</span>
+    <div class="node strong" id="flow-wf">Workflow<small>email sent from Asali's Gmail</small></div><span class="ar">→</span>
+    <div class="node" id="flow-end">Calendly or resources<small>secret event or $200 / $600</small></div>
+  </div>
+  <div class="router card">
+    <p class="tag">Question 6 · “What investment are you planning for this?”</p>
+    <div class="seg wrap" id="inv"></div>
+    <div class="wfout" id="wfout"></div>
+  </div>
+  <div class="split">
+    <div class="card"><h3>17hats setup sheet</h3><div class="tablewrap"><table class="mini" id="sheet"></table></div>
+      <label class="trap"><input type="checkbox" id="typed"> Show what happens if question 6 is a typed answer instead</label>
+      <ul class="issues" id="typed-out"></ul></div>
+    <div class="card"><h3>Connections</h3><ul class="ticks">
+      <li><b>Gmail:</b> connected in 17hats as both the incoming and the outgoing server. Workflow emails leave from Asali's own address, and replies thread back into the 17hats project. Using the 17hats mail server with a free @gmail.com address is what lands in spam; this avoids it.</li>
+      <li><b>Calendly:</b> two secret event types, Individual (30 min) and Organizations (45 min). Only the qualified workflows contain those links. The old free 15-minute event is retired or made secret.</li>
+      <li><b>No Zapier needed</b> for routing: 17hats does it natively. Zapier stays an option for logging Calendly bookings back into 17hats, which needs a paid Calendly plan.</li>
+      <li><b>Work / Live / Play tag</b> is set from question 1 on every lead, so the same segments feed future email campaigns.</li></ul></div>
+  </div>
+</section>
+
+<!-- 06 BUILD SHEET -->
+<section id="build" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">How each blueprint rule becomes a Squarespace setting</p><h2>Build sheet</h2></header>
+  <div class="tablewrap card"><table class="mini rules" id="rules"></table></div>
+  <div class="split">
+    <div class="card"><h3>Custom CSS (Design → Custom CSS)</h3><pre id="css"></pre><button class="btn" id="copy-css">Copy CSS</button>
+      <p class="fine">Section IDs come from the live editor. The selectors target Squarespace 7.1 List Section items and button classes, so no page markup needs to change.</p></div>
+    <div class="card"><h3>Plan check before we start</h3><ul class="ticks">
+      <li><b>Embedding the 17hats form needs Squarespace Core or higher.</b> JavaScript and iframes in Code Blocks don't run on Basic. On Basic, the Apply button links to the hosted form instead.</li>
+      <li><b>The 3R matrix is plain HTML and CSS,</b> which works in a Code Block on every plan.</li>
+      <li><b>The Programs dropdown needs no code:</b> the folder's first item is the Programs &amp; Intensives overview, so the hub page and the dropdown both work, including on phones.</li>
+      <li><b>Email Campaigns:</b> the plan is picked from the sorted list sizes, after the import.</li></ul></div>
+  </div>
+</section>
+
+<!-- 07 TESTS -->
+<section id="tests" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">Measured, with the scripts in the repo</p><h2>Tests and checks</h2><p class="lede" id="env"></p></header>
+  <div class="perf" id="perf"></div>
+  <div class="tests" id="test-table"></div>
+  <div class="split honest">
+    <div class="card ok"><h3>Measured here</h3><ul>
+      <li>20 logic tests: spreadsheet reader, sorter, all 16,128 intake answer combinations, redirect map</li>
+      <li>7 prototype pages × 3 widths in Chromium: overflow, colour contrast, 44 px tap targets, heading order, layout shift, labels, plus the blueprint rules (nav count, #cbd5e1 hairlines, no shadows, fit-panel colours, store out of the header)</li>
+      <li>The sorter on 6 messy files (871 rows), and on a 50,000-row sheet</li></ul></div>
+    <div class="card no"><h3>Not measured yet (done in your accounts)</h3><ul>
+      <li>Your real Squarespace template, fonts and photos; your real Excel lists</li>
+      <li>17hats, Calendly and Gmail, configured and sent end to end in your accounts, with test leads on each of the four paths</li>
+      <li>Deliverability of the first campaign (depends on how and when contacts opted in)</li>
+      <li>Page speed on Squarespace's servers with real images</li></ul></div>
+  </div>
+</section>
+
+<!-- 08 PLAN -->
+<section id="plan" class="panel" role="tabpanel" hidden>
+  <header class="ph"><p class="kicker">Scope</p><h2>Two phases, then a handover you can run</h2></header>
+  <div class="grid3">
+    <div class="card stage1"><p class="tag">Phase 1</p><h3>Rebuild and lists</h3><ul class="plain"><li>Seven pages built in your Squarespace from the blueprint, desktop and mobile</li><li>Navigation consolidated to five links + Apply, Programs dropdown</li><li>URL mappings for every old path, checked after go-live</li><li>Store out of navigation and search, discreet footer link</li><li>Excel lists cleaned and sorted into Work, Live and Play mailing lists</li></ul></div>
+    <div class="card stage1"><p class="tag">Phase 2</p><h3>Intake funnel</h3><ul class="plain"><li>8-question 17hats form embedded on /intake</li><li>Four workflows with the emails written</li><li>Gmail connected in 17hats; Calendly secret events</li><li>Old free-call link retired</li><li>Test leads through every path before launch</li></ul></div>
+    <div class="card stage1"><p class="tag">Handover</p><h3>Yours to run</h3><ul class="plain"><li>Screen-recorded walkthrough: editing pages, adding a case study, reading the review list</li><li>One-page guide: what each workflow does and how to change an email</li><li>The sorter stays yours for future lists</li></ul></div>
+  </div>
+  <div class="split">
+    <div class="card"><h3>What I need from you</h3><ul class="plain"><li>Contributor access to Squarespace (Administrator) and 17hats</li><li>The Excel files, and how each list was collected (for consent)</li><li>Calendly login; the $200 and $600 resource links</li><li>Photos as they arrive (frames are sized to the blueprint's photo direction)</li></ul></div>
+    <div class="card cheaper"><h3>Simpler or cheaper, if you prefer</h3><ul class="plain"><li><b>Skip Calendly:</b> 17hats has its own online scheduling, so qualified leads could book there, with one tool fewer to pay for and connect.</li><li><b>No Zapier:</b> routing is native to 17hats; add Zapier later only if you want bookings logged back.</li><li><b>Stay on Basic:</b> link the Apply button to the hosted 17hats form instead of embedding it.</li></ul></div>
+  </div>
+</section>
+</main>
+</div>
+<footer class="foot"><h2>Sources</h2><ul class="src">
+  <li><a href="https://help.17hats.com/en/articles/1828264-all-about-workflows-triggering-your-workflow">17hats: triggering workflows from a Choose-from-a-List question (one method per form)</a></li>
+  <li><a href="https://help.17hats.com/en/articles/840255-automated-lead-workflows">17hats: automated lead workflows</a></li>
+  <li><a href="https://help.17hats.com/en/articles/13928403-start-stop-workflow-automation">17hats: start/stop tags</a></li>
+  <li><a href="https://help.17hats.com/en/articles/2829398-how-do-i-connect-my-google-gmail-gsuite-email">17hats: connect Gmail</a></li>
+  <li><a href="https://help.17hats.com/en/articles/1063489-using-the-17hats-mail-server-as-your-outgoing-server">17hats: mail server and free addresses</a></li>
+  <li><a href="https://community.calendly.com/asked-answered-79/how-do-i-share-one-link-for-multiple-1-1s-at-specific-dates-and-times-4672">Calendly community: secret controls visibility, not uniqueness</a></li>
+  <li><a href="https://calendly.com/blog/one-time-calendly-link.html">Calendly: single-use links</a></li>
+  <li><a href="https://calendly.com/help/calendly-zapier">Calendly: Zapier needs Standard or higher</a></li>
+  <li><a href="https://z3nladgie3.zendesk.com/hc/en-us/articles/360017130938-Building-mailing-lists">Squarespace help mirror: mailing list CSV format and unsubscribes</a></li>
+  <li><a href="https://forum.squarespace.com/topic/194687-mailing-list-import-error/">Squarespace forum: imports refused for likely bounces</a></li>
+  <li><a href="https://cloutly.com/blog/add-google-reviews-to-squarespace/">Code Blocks: JavaScript and iframes need Core or higher</a></li>
+  <li><a href="https://studio-mesa-site.pages.dev/articles/how-to-hide-a-page-from-squarespace-navigation">Not Linked pages stay public and indexable</a></li>
+  <li><a href="https://mdc-designs.squarespace.com/blog/hide-squarespace-search-engine-ai-crawlers">Collections can only be hidden from search as a whole</a></li>
+  <li><a href="https://www.collaborada.com/blog/squarespace-redirects">Squarespace URL Mappings syntax</a></li>
+</ul><p class="fine">Prototype pages and samples are for review only. Not indexed by search engines.</p></footer>
+<script src="vendor/fflate.min.js"></script>
+<script src="lib/xlsx-lite.js"></script>
+<script src="lib/segment.js"></script>
+<script src="lib/funnel.js"></script>
+<script src="lib/redirects.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

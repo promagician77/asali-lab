@@ -1,0 +1,25 @@
+{
+  "name": "asali-rebuild-intake-lab",
+  "version": "1.0.0",
+  "description": "Squarespace rebuild prototype, Excel contact sorter and 17hats intake router for the Empowered by Asali blueprint",
+  "main": "site/index.html",
+  "scripts": {
+    "test": "node test/run.js",
+    "samples": "python3 tools/make_samples.py",
+    "proto": "node tools/build_proto.mjs",
+    "checks": "NODE_PATH=$(npm root -g) node tools/check.cjs",
+    "serve": "npx --yes serve site -l 8311"
+  },
+  "keywords": [
+    "squarespace",
+    "17hats",
+    "calendly",
+    "segmentation"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fflate": "^0.8.2"
+  },
+  "private": true
+}
